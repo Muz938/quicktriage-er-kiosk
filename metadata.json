@@ -1,0 +1,8 @@
+{
+  "name": "QuickTriage ER Kiosk",
+  "description": "A McDonald's-style self-service emergency room check-in system with AI-powered triage, multimodal inputs (voice, drawing, photos), and a real-time nurse dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
